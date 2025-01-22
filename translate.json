@@ -1,0 +1,18 @@
+{
+    "metadata": {
+      "author": "vBook",
+      "description": ""
+    },
+    "data": [
+      {
+        "name": "Gemini",
+        "author": "vBook",
+        "version": 1,
+        "source": "https://www.bing.com/translator",
+        "path": "https://github.com/phuocan204/aitran/raw/refs/heads/master/plugin.zip",
+        "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/edge-translate/icon.png",
+        "description": "Dịch truyện bằng Gemini",
+        "type": "translate"
+      }
+    ]
+  }
