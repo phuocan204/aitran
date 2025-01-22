@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Gemini Translate",
+    "author": "vBook",
+    "version": 1.1,
+    "source": "https://www.gemini-ai.com",
+    "description": "Dịch truyện bằng API Gemini AI",
+    "type": "translate"
+  },
+  "script": {
+    "language": "language.js",
+    "translate": "translate.js"
+  },
+  "config": {
+    "support_auto_detect": true,
+    "max_line": 1000,
+    "max_length": 50000,
+    "required_api_key": true, 
+    "support_url": "" 
+  }
+}

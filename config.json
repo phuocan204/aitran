@@ -1,0 +1,11 @@
+{
+    "apiKey": "AIzaSyAx-tCWkUiaOjV6dgLhSVwypY8iUBNfmuk", 
+    "languages": [
+      { "id": "en", "name": "English" },
+      { "id": "vi", "name": "Vietnamese" },
+      { "id": "es", "name": "Spanish" },
+      { "id": "fr", "name": "French" },
+      { "id": "de", "name": "German" }
+    ]
+  }
+  
